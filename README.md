@@ -2,7 +2,7 @@
 ## NON-TECHNICAL 
 1. **TABLEAU:[Link](https://public.tableau.com/app/profile/ian.moire/viz/KENYACHILDHEALTHANEMIAINSIGHTS/KENYACHILDHEALTHANEMIAINSIGHTS)**
 2. **PRESENTATION:[Link](https://docs.google.com/presentation/d/13A2BUqxmFqjX_2VwJZNKwf7GUzNIGoylNEJQbn8A35o/edit?usp=sharing)**
-
+3. **EXCEL:[Link](https://imgur.com/Kn1pfyq)**
    ## Background
 Anemia remains a major public health challenge, particularly among children under the age of five. It affects physical development, cognitive abilities, and overall well-being. The dataset provides key indicators on anemia prevalence in Kenya, capturing trends from national surveys conducted in 2015 and 2020. Understanding these patterns can help guide health interventions, policy decisions, and resource allocation to handle childhood anemia effectively.
 
